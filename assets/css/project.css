@@ -1,0 +1,13 @@
+.links li{
+	float:left;
+	display: inline;
+}
+
+#footer{
+	padding: 5px;
+}
+
+.links a{
+	margin: auto 10px;
+
+}
